@@ -8,27 +8,27 @@
 - How is the district summary affected?
 
 1. In the initial district summary:
-the Average Math Score was 79.0
-the Average Reading Score was 81.9
-the percentage of students passing Math was 75.0%
-the percentage of students passing Reading was 85.8%
-the percentage of students passing both Math and Reading was 65.2%
+- the Average Math Score was 79.0
+- the Average Reading Score was 81.9
+- the percentage of students passing Math was 75.0%
+- the percentage of students passing Reading was 85.8%
+- the percentage of students passing both Math and Reading was 65.2%
 
 ![Initial district summary](Resources/Initial_District_Summary.png)
 
 2. In the cleaned up district summary:
-the Average Math Score is 78.9
-the Average Reading Score is 81.9
-the percentage of students passing Math is 74.8%
-the percentage of students passing Reading is 85.7%
-the percentage of students passing both Math and Reading is 64.9%
+- the Average Math Score is 78.9
+- the Average Reading Score is 81.9
+- the percentage of students passing Math is 74.8%
+- the percentage of students passing Reading is 85.7%
+- the percentage of students passing both Math and Reading is 64.9%
 
 ![Clean district summary](Resources/Clean_District_Summary.png)
 
 - How is the school summary affected?
-None of the average Math & Reading scores have changed for any school, except for Thomas High School as we have removed all 9th Graders' scores. 
-Thomas High School's average Math score decreased from 83.42 to 83.35.
-Thomas High School's average Reading score increased from 83.85 to 83.90.
+-- None of the average Math & Reading scores have changed for any school, except for Thomas High School as we have removed all 9th Graders' scores. 
+-- Thomas High School's average Math score decreased from 83.42 to 83.35.
+-- Thomas High School's average Reading score increased from 83.85 to 83.90.
 
 ![Initial Math Scores](Resources/Initial_Math_Score_Grade.png)
 ![Initial Reading Scores](Resources/Initial_Reading_Score_Grade.png)
