@@ -31,7 +31,10 @@
 * Thomas High School's average Reading score increased from 83.85 to 83.90.
 
 ![Initial Math Scores](Resources/Initial_Math_Score_Grade.png)
+![Clean Math Scores](Resources/Initial_Math_Score_Grade.png)
+
 ![Initial Reading Scores](Resources/Initial_Reading_Score_Grade.png)
+![Clean Reading Scores](Resources/Clean_Reading_Score_Grade.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - 
