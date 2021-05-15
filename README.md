@@ -13,7 +13,7 @@ the Average Reading Score was 81.9
 the percentage of students passing Math was 75.0%
 the percentage of students passing Reading was 85.8%
 the percentage of students passing both Math and Reading was 65.2%
-ADD PNG
+![Initial district summary](Analysis/Deliverable_2_Election_Results_Saved_to_Text_File.png)
 
 2. In the cleaned up district summary:
 the Average Math Score is 78.9
