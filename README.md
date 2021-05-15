@@ -56,7 +56,7 @@ While Thomas High School's overall Passing percentage decreased from 90.95 to 90
 ![Initial School Size](Resources/Initial_School_Size.png)
 ![Clean School Size](Resources/Clean_School_Size.png)
 
-4. Scores by school type: none of the scores changes based on the school size
+4. Scores by school type: none of the scores changes based on the school type
 
 ![Initial School Type](Resources/Initial_School_Type.png)
 ![Clean School Type](Resources/Clean_School_Type.png)
